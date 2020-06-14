@@ -3,6 +3,7 @@
     "displayName": "Arkham Theme",
     "description": "A purplish dark theme with efficient division and nice colors",
     "version": "0.0.1",
+    "publisher": "lucasmsa",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -17,5 +18,10 @@
                 "path": "./themes/Arkham Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucasmsa/arkham-theme.git"
+    },
+    "homepage": "https://github.com/lucasmsa/arkham-theme/blob/master/README.md"
 }
