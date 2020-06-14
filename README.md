@@ -1,5 +1,5 @@
 # Arkham Theme 🦇
----
+
 ## A purplish dark theme with inspirations on Transylvania and Mayukai Alucard.
 ![Theme in action](Screenshot.png)
 
