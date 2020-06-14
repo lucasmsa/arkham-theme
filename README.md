@@ -3,13 +3,18 @@
 
 ![Theme in action](Screenshot.png)
 
+
+## Installing 💻
+
 ---
-### Installing 💻
 
 -  Go to `View -> Command Palette` or type `Ctrl+Shift+P`/`cmd+Shift+P`
 -  Then enter `Install Extension`
 -  Write `Arkham`
 -  Select it or press Enter to install
+
+## Activating theme ⚡️
+
 ---
-### Activating theme ⚡️
+
 Run Visual Studio Code. The Arkham Theme will be available from File -> Preferences -> Color Theme dropdown menu.
