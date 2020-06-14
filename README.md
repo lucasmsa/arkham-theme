@@ -4,5 +4,5 @@
 ![Theme in action](Screenshot.png)
 
 ### For more information
-* [GitHub](http://code.visualstudio.com/docs/languages/markdown)
+* [GitHub](http://code.visualstudio.com/docs/languages/markdown)<br>
 **Enjoy!**
