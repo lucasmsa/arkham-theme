@@ -1,5 +1,5 @@
 # Arkham Theme 🦇
-#### Theme with inspirations on Transylvania and Mayukai Alucard. 🌑
+#### Theme with inspirations on Transylvania and Mayukai Alucard 🌑
 
 ![Theme in action](Screenshot.png)
 
