@@ -5,4 +5,5 @@
 
 ### For more information
 * [GitHub](http://code.visualstudio.com/docs/languages/markdown)<br>
+---
 **Enjoy!**
