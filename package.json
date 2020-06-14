@@ -1,8 +1,8 @@
 {
     "name": "arkham-theme",
     "displayName": "Arkham Theme",
-    "description": "A purplish dark theme with efficient division and nice colors",
-    "version": "0.0.1",
+    "description": "A purplish dark theme with clear divisions and nice colors",
+    "version": "0.0.2",
     "publisher": "lucasmsa",
     "engines": {
         "vscode": "^1.46.0"

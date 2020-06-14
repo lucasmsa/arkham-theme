@@ -30,7 +30,11 @@
 		"list.hoverBackground":"#282646",
 		"list.activeSelectionBackground": "#161526",
 		"list.inactiveSelectionBackground": "#2E2F4E",
-		"editor.lineHighlightBorder": "#291830c0"
+		"editor.lineHighlightBorder": "#291830c0",
+		"terminal.background": "#161526",
+		"menu.background": "#161526",
+		"editorWidget.background": "#161526",
+		"statusBar.background": "#1B1C2F"
 	},
 	"tokenColors": [
 		{
