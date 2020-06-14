@@ -13,4 +13,3 @@
 ---
 ### Activating theme ⚡️
 Run Visual Studio Code. The Arkham Theme will be available from File -> Preferences -> Color Theme dropdown menu.
-
