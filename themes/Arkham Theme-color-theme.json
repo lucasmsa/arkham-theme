@@ -34,7 +34,9 @@
 		"terminal.background": "#161526",
 		"menu.background": "#161526",
 		"editorWidget.background": "#161526",
-		"statusBar.background": "#1B1C2F"
+		"statusBar.background": "#1B1C2F",
+		"editorSuggestWidget.background": "#161526",
+		"editorSuggestWidget.selectedBackground": "#1C1D30" 
 	},
 	"tokenColors": [
 		{
@@ -55,7 +57,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#f6f0ff"
+				"foreground": "#f1e8ff"
 			}
 		},
 		{
