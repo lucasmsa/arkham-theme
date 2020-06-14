@@ -15,3 +15,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added Icon
 ## [0.3.0] - 2020-07-13
 - Changed Suggestion foreground color
+- Changed window border color
