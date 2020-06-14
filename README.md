@@ -3,6 +3,10 @@
 
 ![Theme in action](Screenshot.png)
 
+---
+
+![Theme in action 2](ScreenShot_2.png)
+
 
 ## Installing 💻
 
