@@ -8,11 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.1] - 2020-06-13
 - Theme initial release
-## [0.1.0] - 2020-07-13
+## [0.1.0] - 2020-06-14
 - Changed Terminal Background color
 - Changed Editor Widget colors
-## [0.2.0] - 2020-07-13
+## [0.2.0] - 2020-06-14
 - Added Icon
-## [0.3.0] - 2020-07-13
+## [0.3.0] - 2020-06-14
 - Changed Suggestion foreground color
 - Changed window border color
+## [0.5.0] - 2020-06-15
+- Changed variable colors slightly

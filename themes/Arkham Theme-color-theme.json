@@ -52,7 +52,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#eafff679"
+				"foreground": "#f0fff850"
 			}
 		},
 		{
@@ -62,7 +62,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ebe3fa"
+				"foreground": "#efeaf7"
 			}
 		},
 		{
