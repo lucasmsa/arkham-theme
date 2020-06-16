@@ -18,3 +18,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed window border color
 ## [0.5.0] - 2020-06-15
 - Changed variable colors slightly
+## [0.6.0] - 2020-06-15
+- Changed variable colors slightly again
