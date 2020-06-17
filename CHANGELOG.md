@@ -22,4 +22,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed variable colors slightly again
 ## [0.7.0] - 2020-06-17
 - Changed badge colors
+## [0.8.0] - 2020-06-17
+- Changed status bar colors
+
 

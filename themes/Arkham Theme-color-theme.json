@@ -35,7 +35,7 @@
 		"terminal.background": "#161526",
 		"menu.background": "#161526",
 		"editorWidget.background": "#161526",
-		"statusBar.background": "#1B1C2F",
+		"statusBar.background": "#100f1b",
 		"editorSuggestWidget.background": "#161526",
 		"editorSuggestWidget.selectedBackground": "#1C1D30",
 		"titleBar.activeBackground": "#161526",
