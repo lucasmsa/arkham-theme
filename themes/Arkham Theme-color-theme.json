@@ -42,7 +42,8 @@
 		"titleBar.activeForeground": "#f1e8ff",
 		"titleBar.inactiveBackground": "#161526",
 		"titleBar.inactiveForeground": "#f1e8ff",
-		"badge.background":"#4D4985"
+		"badge.background":"#4D4985",
+
 	},
 	"tokenColors": [
 		{
@@ -102,7 +103,6 @@
 				"keyword.control",
 				"constant.other.color",
 				"punctuation",
-				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -114,6 +114,15 @@
 			],
 			"settings": {
 				"foreground": "#c38bf7"
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"meta.tag"
+			],
+			"settings": {
+				"foreground": "#f6f3fc"
 			}
 		},
 		{
