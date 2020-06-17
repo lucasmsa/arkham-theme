@@ -24,7 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed badge colors
 ## [0.8.0] - 2020-06-17
 - Changed status bar colors
-## [0.9.0] - 2020-06-17
+## [0.10.0] - 2020-06-17
 - Changed meta.tag colors
 
 
