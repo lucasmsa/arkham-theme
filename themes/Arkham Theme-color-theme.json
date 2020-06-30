@@ -73,7 +73,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#310000"
 			}
 		},
 		{
@@ -152,7 +152,16 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				"meta.block variable.other"
+				"meta.block variable.other",
+			],
+			"settings": {
+				"foreground": "#f6f3fc"
+			}
+		},
+		{
+			"name": "Block Level Variables",
+			"scope": [
+				"meta.block",
 			],
 			"settings": {
 				"foreground": "#f07178"

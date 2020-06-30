@@ -9,7 +9,7 @@ const Poison_Ivy = () => {
 
     return (
         <div>
-            <Thrust onClick={applyPoison}/>
+            <Thrust onClick={applyPoison}/> 
         </div>
     )       
 }

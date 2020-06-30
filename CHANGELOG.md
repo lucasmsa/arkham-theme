@@ -26,6 +26,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed status bar colors
 ## [0.9.0] - 2020-06-17
 - Changed meta.tag colors
+## [1.0.0] - 2020-06-17
+- Changed TypeScript variables styling
+
 
 
 
