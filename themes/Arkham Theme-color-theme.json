@@ -22,9 +22,6 @@
 		"editor.hoverHighlightBackground": "#211F39",
 		"editor.selectionHighlightBackground": "#38335e",
 		"editor.selectionBackground": "#6A6793",
-		"editor.wordHighlightBackground": "#3E3C5B",
-		"editor.findMatchBackground": "#3e3a6d",
-		"editor.findMatchHighlightBackground": "#5e5b83",
 		"editorLineNumber.foreground": "#8988A0",
 		"button.hoverBackground":"#2A2849",
 		"button.background":"#4D4985",
@@ -43,7 +40,7 @@
 		"titleBar.inactiveBackground": "#161526",
 		"titleBar.inactiveForeground": "#f1e8ff",
 		"badge.background":"#4D4985",
-
+		"editor.wordHighlightBackground": "#4c496b"
 	},
 	"tokenColors": [
 		{
@@ -94,7 +91,17 @@
 				"storage.modifier"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#B289F1"
+			}
+		},
+		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -294,6 +301,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#c38bf7"
 			}
 		},

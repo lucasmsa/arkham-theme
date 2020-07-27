@@ -28,7 +28,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed meta.tag colors
 ## [1.0.0] - 2020-06-17
 - Changed TypeScript variables styling
-
+## [1.1.0] - 2020-06-27
+- Changed some keywords font-styling to italics
 
 
 
