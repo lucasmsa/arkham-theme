@@ -30,7 +30,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed TypeScript variables styling
 ## [1.1.0] - 2020-06-27
 - Changed some keywords font-styling to italics
-
+## [1.2.0] - 2020-06-27
+- Refactored to 1.0.0
 
 
 
