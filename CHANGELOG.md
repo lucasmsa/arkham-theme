@@ -36,6 +36,7 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - Changed sideBar, tab and scrollbar colors
 ## [1.5.0] - 2020-09-13
 - Changed some tab and sidebar colors
-
+## [1.5.0] - 2020-09-13
+- Changed sidebar and list colors
 
 
