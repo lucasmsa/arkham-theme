@@ -2,7 +2,7 @@
 	"name": "Arkham Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#161427f6",
+		"editor.background": "#171529f6",
 		"editor.foreground": "#DAD6DA",
 		"activityBarBadge.background": "#007acc",
 		"activityBar.foreground": "#FFCFD4",
@@ -10,6 +10,8 @@
 		"activityBar.border": "#000",
 		"sideBarTitle.foreground": "#fff",
 		"tab.activeBorderTop": "#FF70B1",
+		"tab.border": "#151327",
+		"tab.inactiveForeground": "#796f8d",
 		"tab.hoverBackground": "#221f3b",
 		"sideBar.border": "#12101F",
 		"sideBarSectionHeader.background": "#1B1B2F",
@@ -30,6 +32,8 @@
 		"list.inactiveSelectionBackground": "#2E2F4E",
 		"editor.lineHighlightBorder": "#291830c0",
 		"terminal.background": "#161526",
+		"panel.border": "#6A6793",
+		"panelTitle.activeForeground": "#feeeff",
 		"menu.background": "#161526",
 		"editorWidget.background": "#161526",
 		"statusBar.background": "#100f1b",
@@ -40,7 +44,8 @@
 		"titleBar.inactiveBackground": "#161526",
 		"titleBar.inactiveForeground": "#f1e8ff",
 		"badge.background":"#4D4985",
-		"editor.wordHighlightBackground": "#4c496b"
+		"editor.wordHighlightBackground": "#4c496b",
+		"editor.findMatchBackground": "#534f79"
 	},
 	"tokenColors": [
 		{

@@ -32,6 +32,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed some keywords font-styling to italics
 ## [1.2.0] - 2020-06-27
 - Refactored to 1.0.0
+## [1.3.0] - 2020-09-13
+- Tweaked some colors, adjusted titlebar and panel foreground and border
 
 
 

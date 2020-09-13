@@ -1,11 +1,11 @@
 # Arkham Theme 🦇
 #### Theme with inspirations on Transylvania and Mayukai Alucard 🌑
 
-![Theme in action](Screenshot.png)
+![Theme in action](screenshots/Screenshot.png)
 
 ---
 
-![Theme in action 2](ScreenShot_2.png)
+![Theme in action 2](screenshots/ScreenShot_2.png)
 
 
 ## Installing 💻
