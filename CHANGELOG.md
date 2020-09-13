@@ -38,5 +38,6 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - Changed some tab and sidebar colors
 ## [1.6.0] - 2020-09-13
 - Changed sidebar and list colors
-
+## [1.7.0] - 2020-09-13
+- Changed some activity bar colors
 
