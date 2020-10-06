@@ -72,7 +72,8 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"meta.function-call"
 			],
 			"settings": {
 				"foreground": "#f6f3fc"
@@ -120,22 +121,21 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
-				"constant.other.color",
 				"punctuation",
-				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
+				"keyword.control",
+				"constant.other.color",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#c38bf7"
+				"foreground": "#B289F1"
 			}
-		},
+		}, 
 		{
 			"name": "Operator, Misc",
 			"scope": [
@@ -143,6 +143,16 @@
 			],
 			"settings": {
 				"foreground": "#f6f3fc"
+			}
+		}, 
+		{
+			"name": "Operator, Misc",
+			"scope": [
+
+				"punctuation.definition.tag",
+			],
+			"settings": {
+				"foreground": "#cfcfee"
 			}
 		},
 		{
@@ -153,14 +163,13 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff519f"
 			}
 		},
 		{
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
@@ -315,7 +324,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#c38bf7"
+				"foreground": "#b28bda"
 			}
 		},
 		{

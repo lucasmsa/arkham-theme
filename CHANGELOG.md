@@ -40,4 +40,6 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - Changed sidebar and list colors
 ## [1.7.0] - 2020-09-13
 - Changed some activity bar colors
+## [1.8.0] - 2020-09-13
+- Changed ',' colors on array destructuring and html tags colors
 
