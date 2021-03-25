@@ -42,4 +42,5 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - Changed some activity bar colors
 ## [1.8.0] - 2020-09-13
 - Changed ',' colors on array destructuring and html tags colors
-
+## [1.9.0] - 2021-03-25
+- Changed punctuation separator colors and widget styling

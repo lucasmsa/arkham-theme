@@ -23,7 +23,7 @@
 		"scrollbarSlider.hoverBackground": "#6f688b93",
 		"input.placeholderForeground": "#b7b5d49c",
 		"tab.inactiveBackground": "#1c1c30",
-		"sideBarSectionHeader.border": "#252749", 
+		"sideBarSectionHeader.border": "#252749",
 		"gitDecoration.ignoredResourceForeground": "#69698f",
 		"sideBar.background": "#1B1B2F",
 		"sideBar.foreground": "#e7e3f5ef",
@@ -34,9 +34,9 @@
 		"editor.selectionHighlightBackground": "#38335e",
 		"editor.selectionBackground": "#6A6793",
 		"editorLineNumber.foreground": "#8988A0",
-		"button.hoverBackground":"#2A2849",
-		"button.background":"#4D4985",
-		"list.hoverBackground":"#282646",
+		"button.hoverBackground": "#2A2849",
+		"button.background": "#4D4985",
+		"list.hoverBackground": "#282646",
 		"list.activeSelectionBackground": "#161526",
 		"list.inactiveSelectionBackground": "#2E2F4E",
 		"editor.lineHighlightBorder": "#291830c0",
@@ -52,9 +52,11 @@
 		"titleBar.activeForeground": "#f1e8ff",
 		"titleBar.inactiveBackground": "#161526",
 		"titleBar.inactiveForeground": "#f1e8ff",
-		"badge.background":"#4D4985",
+		"badge.background": "#4D4985",
 		"editor.wordHighlightBackground": "#4c496b",
-		"editor.findMatchBackground": "#534f79"
+		"editor.findMatchBackground": "#534f79",
+		"editorHoverWidget.border": "#534f79",
+		"editorMarkerNavigation.background": "#161526",
 	},
 	"tokenColors": [
 		{
@@ -135,7 +137,16 @@
 			"settings": {
 				"foreground": "#B289F1"
 			}
-		}, 
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"punctuation.separator"
+			],
+			"settings": {
+				"foreground": "#f6f3fc"
+			}
+		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
@@ -144,11 +155,10 @@
 			"settings": {
 				"foreground": "#f6f3fc"
 			}
-		}, 
+		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
-
 				"punctuation.definition.tag",
 			],
 			"settings": {
