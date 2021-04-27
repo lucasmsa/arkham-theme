@@ -44,5 +44,5 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - Changed ',' colors on array destructuring and html tags colors
 ## [1.9.0] - 2021-03-25
 - Changed punctuation separator colors and widget styling
-## [2.0.0] - 2021-04-27
+## [1.10.0] - 2021-04-27
 - Add elixir screenshot code to README
