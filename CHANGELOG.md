@@ -46,5 +46,7 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - Changed punctuation separator colors and widget styling
 ## [1.10.0] - 2021-04-27
 - Add elixir screenshot code to README
-## [1.11.0] - 2021-04-27
+## [1.11.0 && 1.12.0] - 2021-04-27
+- VSCE Timeout error
+## [1.13.0] - 2021-04-27
 - Adjust elixir screenshot
