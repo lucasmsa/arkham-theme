@@ -5,7 +5,7 @@
 
 ---
 
-![Theme in action 2](screenshots/Screenshot_2.png)
+![Theme in action 2](screenshots/ScreenShot_2.png)
 
 ---
 
