@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="992" height="1268" viewBox="0 0 992 1268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect width="992" height="1268" fill="#161526"/>
+<text x="22" y="44" fill="#dad6da" font-size="18" font-weight="700">UI</text>
+<rect class="swatch" x="22" y="62" width="148" height="56" rx="8" fill="#161526"/>
+<text x="22" y="136" fill="#dad6da" font-size="11">background</text>
+<text x="22" y="152" fill="#dad6da" font-size="11" opacity="0.75">#161526</text>
+<rect class="swatch" x="182" y="62" width="148" height="56" rx="8" fill="#dad6da"/>
+<text x="182" y="136" fill="#dad6da" font-size="11">foreground</text>
+<text x="182" y="152" fill="#dad6da" font-size="11" opacity="0.75">#dad6da</text>
+<rect class="swatch" x="342" y="62" width="148" height="56" rx="8" fill="#1b1b2f"/>
+<text x="342" y="136" fill="#dad6da" font-size="11">sidebar</text>
+<text x="342" y="152" fill="#dad6da" font-size="11" opacity="0.75">#1b1b2f</text>
+<rect class="swatch" x="502" y="62" width="148" height="56" rx="8" fill="#100f1b"/>
+<text x="502" y="136" fill="#dad6da" font-size="11">statusBar</text>
+<text x="502" y="152" fill="#dad6da" font-size="11" opacity="0.75">#100f1b</text>
+<rect class="swatch" x="662" y="62" width="148" height="56" rx="8" fill="#1c1c30"/>
+<text x="662" y="136" fill="#dad6da" font-size="11">tabInactive</text>
+<text x="662" y="152" fill="#dad6da" font-size="11" opacity="0.75">#1c1c30</text>
+<rect class="swatch" x="822" y="62" width="148" height="56" rx="8" fill="#221f3b"/>
+<text x="822" y="136" fill="#dad6da" font-size="11">tabHover</text>
+<text x="822" y="152" fill="#dad6da" font-size="11" opacity="0.75">#221f3b</text>
+<rect class="swatch" x="22" y="170" width="148" height="56" rx="8" fill="#23263c"/>
+<text x="22" y="244" fill="#dad6da" font-size="11">input</text>
+<text x="22" y="260" fill="#dad6da" font-size="11" opacity="0.75">#23263c</text>
+<rect class="swatch" x="182" y="170" width="148" height="56" rx="8" fill="#23253c"/>
+<text x="182" y="244" fill="#dad6da" font-size="11">dropdown</text>
+<text x="182" y="260" fill="#dad6da" font-size="11" opacity="0.75">#23253c</text>
+<rect class="swatch" x="342" y="170" width="148" height="56" rx="8" fill="#6a6793"/>
+<text x="342" y="244" fill="#dad6da" font-size="11">selection</text>
+<text x="342" y="260" fill="#dad6da" font-size="11" opacity="0.75">#6a6793</text>
+<rect class="swatch" x="502" y="170" width="148" height="56" rx="8" fill="#38335e"/>
+<text x="502" y="244" fill="#dad6da" font-size="11">selectionHighlight</text>
+<text x="502" y="260" fill="#dad6da" font-size="11" opacity="0.75">#38335e</text>
+<rect class="swatch" x="662" y="170" width="148" height="56" rx="8" fill="#4c496b"/>
+<text x="662" y="244" fill="#dad6da" font-size="11">wordHighlight</text>
+<text x="662" y="260" fill="#dad6da" font-size="11" opacity="0.75">#4c496b</text>
+<rect class="swatch" x="822" y="170" width="148" height="56" rx="8" fill="#534f79"/>
+<text x="822" y="244" fill="#dad6da" font-size="11">findMatch</text>
+<text x="822" y="260" fill="#dad6da" font-size="11" opacity="0.75">#534f79</text>
+<rect class="swatch" x="22" y="278" width="148" height="56" rx="8" fill="#8988a0"/>
+<text x="22" y="352" fill="#dad6da" font-size="11">lineNumber</text>
+<text x="22" y="368" fill="#dad6da" font-size="11" opacity="0.75">#8988a0</text>
+<rect class="swatch" x="182" y="278" width="148" height="56" rx="8" fill="#282646"/>
+<text x="182" y="352" fill="#dad6da" font-size="11">listHover</text>
+<text x="182" y="368" fill="#dad6da" font-size="11" opacity="0.75">#282646</text>
+<rect class="swatch" x="342" y="278" width="148" height="56" rx="8" fill="#2e2f4e"/>
+<text x="342" y="352" fill="#dad6da" font-size="11">listInactiveSelection</text>
+<text x="342" y="368" fill="#dad6da" font-size="11" opacity="0.75">#2e2f4e</text>
+<rect class="swatch" x="502" y="278" width="148" height="56" rx="8" fill="#4d4985"/>
+<text x="502" y="352" fill="#dad6da" font-size="11">button</text>
+<text x="502" y="368" fill="#dad6da" font-size="11" opacity="0.75">#4d4985</text>
+<rect class="swatch" x="662" y="278" width="148" height="56" rx="8" fill="#2a2849"/>
+<text x="662" y="352" fill="#dad6da" font-size="11">buttonHover</text>
+<text x="662" y="368" fill="#dad6da" font-size="11" opacity="0.75">#2a2849</text>
+<rect class="swatch" x="822" y="278" width="148" height="56" rx="8" fill="#ff70b1"/>
+<text x="822" y="352" fill="#dad6da" font-size="11">accent</text>
+<text x="822" y="368" fill="#dad6da" font-size="11" opacity="0.75">#ff70b1</text>
+<rect class="swatch" x="22" y="386" width="148" height="56" rx="8" fill="#ffcfd4"/>
+<text x="22" y="460" fill="#dad6da" font-size="11">activityForeground</text>
+<text x="22" y="476" fill="#dad6da" font-size="11" opacity="0.75">#ffcfd4</text>
+<rect class="swatch" x="182" y="386" width="148" height="56" rx="8" fill="#f1e8ff"/>
+<text x="182" y="460" fill="#dad6da" font-size="11">titleForeground</text>
+<text x="182" y="476" fill="#dad6da" font-size="11" opacity="0.75">#f1e8ff</text>
+<rect class="swatch" x="342" y="386" width="148" height="56" rx="8" fill="#252749"/>
+<text x="342" y="460" fill="#dad6da" font-size="11">sidebarHeaderBorder</text>
+<text x="342" y="476" fill="#dad6da" font-size="11" opacity="0.75">#252749</text>
+<rect class="swatch" x="502" y="386" width="148" height="56" rx="8" fill="#12101f"/>
+<text x="502" y="460" fill="#dad6da" font-size="11">sidebarBorder</text>
+<text x="502" y="476" fill="#dad6da" font-size="11" opacity="0.75">#12101f</text>
+<rect class="swatch" x="662" y="386" width="148" height="56" rx="8" fill="#69698f"/>
+<text x="662" y="460" fill="#dad6da" font-size="11">ignored</text>
+<text x="662" y="476" fill="#dad6da" font-size="11" opacity="0.75">#69698f</text>
+<text x="22" y="524" fill="#dad6da" font-size="18" font-weight="700">Syntax</text>
+<rect class="swatch" x="22" y="542" width="148" height="56" rx="8" fill="#b289f1"/>
+<text x="22" y="616" fill="#dad6da" font-size="11">keyword</text>
+<text x="22" y="632" fill="#dad6da" font-size="11" opacity="0.75">#b289f1</text>
+<rect class="swatch" x="182" y="542" width="148" height="56" rx="8" fill="#2de4a1"/>
+<text x="182" y="616" fill="#dad6da" font-size="11">function</text>
+<text x="182" y="632" fill="#dad6da" font-size="11" opacity="0.75">#2de4a1</text>
+<rect class="swatch" x="342" y="542" width="148" height="56" rx="8" fill="#ffdf89"/>
+<text x="342" y="616" fill="#dad6da" font-size="11">class</text>
+<text x="342" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ffdf89</text>
+<rect class="swatch" x="502" y="542" width="148" height="56" rx="8" fill="#ffabb5"/>
+<text x="502" y="616" fill="#dad6da" font-size="11">string</text>
+<text x="502" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ffabb5</text>
+<rect class="swatch" x="662" y="542" width="148" height="56" rx="8" fill="#ff67b1"/>
+<text x="662" y="616" fill="#dad6da" font-size="11">constant</text>
+<text x="662" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ff67b1</text>
+<rect class="swatch" x="822" y="542" width="148" height="56" rx="8" fill="#ff519f"/>
+<text x="822" y="616" fill="#dad6da" font-size="11">tag</text>
+<text x="822" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ff519f</text>
+<rect class="swatch" x="22" y="650" width="148" height="56" rx="8" fill="#ff5370"/>
+<text x="22" y="724" fill="#dad6da" font-size="11">invalid</text>
+<text x="22" y="740" fill="#dad6da" font-size="11" opacity="0.75">#ff5370</text>
+<rect class="swatch" x="182" y="650" width="148" height="56" rx="8" fill="#82aaff"/>
+<text x="182" y="724" fill="#dad6da" font-size="11">method</text>
+<text x="182" y="740" fill="#dad6da" font-size="11" opacity="0.75">#82aaff</text>
+<rect class="swatch" x="342" y="650" width="148" height="56" rx="8" fill="#89ddff"/>
+<text x="342" y="724" fill="#dad6da" font-size="11">regexp</text>
+<text x="342" y="740" fill="#dad6da" font-size="11" opacity="0.75">#89ddff</text>
+<rect class="swatch" x="502" y="650" width="148" height="56" rx="8" fill="#f6f3fc"/>
+<text x="502" y="724" fill="#dad6da" font-size="11">variable</text>
+<text x="502" y="740" fill="#dad6da" font-size="11" opacity="0.75">#f6f3fc</text>
+<rect class="swatch" x="662" y="650" width="148" height="56" rx="8" fill="#b28bda"/>
+<text x="662" y="724" fill="#dad6da" font-size="11">attribute</text>
+<text x="662" y="740" fill="#dad6da" font-size="11" opacity="0.75">#b28bda</text>
+<rect class="swatch" x="822" y="650" width="148" height="56" rx="8" fill="#b2ccd6"/>
+<text x="822" y="724" fill="#dad6da" font-size="11">type</text>
+<text x="822" y="740" fill="#dad6da" font-size="11" opacity="0.75">#b2ccd6</text>
+<rect class="swatch" x="22" y="758" width="148" height="56" rx="8" fill="#c3e88d"/>
+<text x="22" y="832" fill="#dad6da" font-size="11">inserted</text>
+<text x="22" y="848" fill="#dad6da" font-size="11" opacity="0.75">#c3e88d</text>
+<rect class="swatch" x="182" y="758" width="148" height="56" rx="8" fill="#c792ea"/>
+<text x="182" y="832" fill="#dad6da" font-size="11">changed</text>
+<text x="182" y="848" fill="#dad6da" font-size="11" opacity="0.75">#c792ea</text>
+<rect class="swatch" x="342" y="758" width="148" height="56" rx="8" fill="#f0fff850"/>
+<text x="342" y="832" fill="#dad6da" font-size="11">comment</text>
+<text x="342" y="848" fill="#dad6da" font-size="11" opacity="0.75">#f0fff850</text>
+<text x="22" y="896" fill="#dad6da" font-size="18" font-weight="700">ANSI</text>
+<rect class="swatch" x="22" y="914" width="148" height="56" rx="8" fill="#23263c"/>
+<text x="22" y="988" fill="#dad6da" font-size="11">black</text>
+<text x="22" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#23263c</text>
+<rect class="swatch" x="182" y="914" width="148" height="56" rx="8" fill="#ff5370"/>
+<text x="182" y="988" fill="#dad6da" font-size="11">red</text>
+<text x="182" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#ff5370</text>
+<rect class="swatch" x="342" y="914" width="148" height="56" rx="8" fill="#2de4a1"/>
+<text x="342" y="988" fill="#dad6da" font-size="11">green</text>
+<text x="342" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#2de4a1</text>
+<rect class="swatch" x="502" y="914" width="148" height="56" rx="8" fill="#ffdf89"/>
+<text x="502" y="988" fill="#dad6da" font-size="11">yellow</text>
+<text x="502" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#ffdf89</text>
+<rect class="swatch" x="662" y="914" width="148" height="56" rx="8" fill="#82aaff"/>
+<text x="662" y="988" fill="#dad6da" font-size="11">blue</text>
+<text x="662" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#82aaff</text>
+<rect class="swatch" x="822" y="914" width="148" height="56" rx="8" fill="#ff67b1"/>
+<text x="822" y="988" fill="#dad6da" font-size="11">magenta</text>
+<text x="822" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#ff67b1</text>
+<rect class="swatch" x="22" y="1022" width="148" height="56" rx="8" fill="#89ddff"/>
+<text x="22" y="1096" fill="#dad6da" font-size="11">cyan</text>
+<text x="22" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#89ddff</text>
+<rect class="swatch" x="182" y="1022" width="148" height="56" rx="8" fill="#dad6da"/>
+<text x="182" y="1096" fill="#dad6da" font-size="11">white</text>
+<text x="182" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#dad6da</text>
+<rect class="swatch" x="342" y="1022" width="148" height="56" rx="8" fill="#8988a0"/>
+<text x="342" y="1096" fill="#dad6da" font-size="11">brightBlack</text>
+<text x="342" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#8988a0</text>
+<rect class="swatch" x="502" y="1022" width="148" height="56" rx="8" fill="#ff8a9e"/>
+<text x="502" y="1096" fill="#dad6da" font-size="11">brightRed</text>
+<text x="502" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#ff8a9e</text>
+<rect class="swatch" x="662" y="1022" width="148" height="56" rx="8" fill="#7cf0c4"/>
+<text x="662" y="1096" fill="#dad6da" font-size="11">brightGreen</text>
+<text x="662" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#7cf0c4</text>
+<rect class="swatch" x="822" y="1022" width="148" height="56" rx="8" fill="#ffeab5"/>
+<text x="822" y="1096" fill="#dad6da" font-size="11">brightYellow</text>
+<text x="822" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#ffeab5</text>
+<rect class="swatch" x="22" y="1130" width="148" height="56" rx="8" fill="#a9c6ff"/>
+<text x="22" y="1204" fill="#dad6da" font-size="11">brightBlue</text>
+<text x="22" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#a9c6ff</text>
+<rect class="swatch" x="182" y="1130" width="148" height="56" rx="8" fill="#b289f1"/>
+<text x="182" y="1204" fill="#dad6da" font-size="11">brightMagenta</text>
+<text x="182" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#b289f1</text>
+<rect class="swatch" x="342" y="1130" width="148" height="56" rx="8" fill="#b3ebff"/>
+<text x="342" y="1204" fill="#dad6da" font-size="11">brightCyan</text>
+<text x="342" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#b3ebff</text>
+<rect class="swatch" x="502" y="1130" width="148" height="56" rx="8" fill="#f6f3fc"/>
+<text x="502" y="1204" fill="#dad6da" font-size="11">brightWhite</text>
+<text x="502" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#f6f3fc</text>
+</svg>

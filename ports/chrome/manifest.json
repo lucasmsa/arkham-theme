@@ -1,0 +1,110 @@
+{
+  "manifest_version": 3,
+  "name": "Arkham",
+  "version": "1.14.0",
+  "description": "Arkham: a purplish dark theme, ported from the VS Code theme of the same name.",
+  "theme": {
+    "colors": {
+      "frame": [
+        16,
+        15,
+        27
+      ],
+      "frame_inactive": [
+        16,
+        15,
+        27
+      ],
+      "background_tab": [
+        28,
+        28,
+        48
+      ],
+      "background_tab_inactive": [
+        28,
+        28,
+        48
+      ],
+      "toolbar": [
+        22,
+        21,
+        38
+      ],
+      "tab_text": [
+        218,
+        214,
+        218
+      ],
+      "tab_background_text": [
+        137,
+        136,
+        160
+      ],
+      "tab_background_text_inactive": [
+        137,
+        136,
+        160
+      ],
+      "bookmark_text": [
+        218,
+        214,
+        218
+      ],
+      "toolbar_text": [
+        218,
+        214,
+        218
+      ],
+      "toolbar_button_icon": [
+        255,
+        207,
+        212
+      ],
+      "omnibox_background": [
+        35,
+        38,
+        60
+      ],
+      "omnibox_text": [
+        218,
+        214,
+        218
+      ],
+      "ntp_background": [
+        22,
+        21,
+        38
+      ],
+      "ntp_text": [
+        218,
+        214,
+        218
+      ],
+      "ntp_link": [
+        130,
+        170,
+        255
+      ],
+      "ntp_header": [
+        27,
+        27,
+        47
+      ],
+      "button_background": [
+        77,
+        73,
+        133
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.98,
+        1,
+        0.91
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

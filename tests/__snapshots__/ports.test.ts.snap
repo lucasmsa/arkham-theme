@@ -1,0 +1,1017 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`snapshots > alacritty 1`] = `
+"# Arkham
+
+[colors.primary]
+background = '#161526'
+foreground = '#dad6da'
+
+[colors.cursor]
+text = '#161526'
+cursor = '#ff70b1'
+
+[colors.selection]
+text = '#f6f3fc'
+background = '#6a6793'
+
+[colors.normal]
+black = '#23263c'
+red = '#ff5370'
+green = '#2de4a1'
+yellow = '#ffdf89'
+blue = '#82aaff'
+magenta = '#ff67b1'
+cyan = '#89ddff'
+white = '#dad6da'
+
+[colors.bright]
+black = '#8988a0'
+red = '#ff8a9e'
+green = '#7cf0c4'
+yellow = '#ffeab5'
+blue = '#a9c6ff'
+magenta = '#b289f1'
+cyan = '#b3ebff'
+white = '#f6f3fc'
+"
+`;
+
+exports[`snapshots > chrome 1`] = `
+"{
+  "manifest_version": 3,
+  "name": "Arkham",
+  "version": "1.14.0",
+  "description": "Arkham: a purplish dark theme, ported from the VS Code theme of the same name.",
+  "theme": {
+    "colors": {
+      "frame": [
+        16,
+        15,
+        27
+      ],
+      "frame_inactive": [
+        16,
+        15,
+        27
+      ],
+      "background_tab": [
+        28,
+        28,
+        48
+      ],
+      "background_tab_inactive": [
+        28,
+        28,
+        48
+      ],
+      "toolbar": [
+        22,
+        21,
+        38
+      ],
+      "tab_text": [
+        218,
+        214,
+        218
+      ],
+      "tab_background_text": [
+        137,
+        136,
+        160
+      ],
+      "tab_background_text_inactive": [
+        137,
+        136,
+        160
+      ],
+      "bookmark_text": [
+        218,
+        214,
+        218
+      ],
+      "toolbar_text": [
+        218,
+        214,
+        218
+      ],
+      "toolbar_button_icon": [
+        255,
+        207,
+        212
+      ],
+      "omnibox_background": [
+        35,
+        38,
+        60
+      ],
+      "omnibox_text": [
+        218,
+        214,
+        218
+      ],
+      "ntp_background": [
+        22,
+        21,
+        38
+      ],
+      "ntp_text": [
+        218,
+        214,
+        218
+      ],
+      "ntp_link": [
+        130,
+        170,
+        255
+      ],
+      "ntp_header": [
+        27,
+        27,
+        47
+      ],
+      "button_background": [
+        77,
+        73,
+        133
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.98,
+        1,
+        0.91
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}
+"
+`;
+
+exports[`snapshots > ghostty 1`] = `
+"palette = 0=#23263c
+palette = 1=#ff5370
+palette = 2=#2de4a1
+palette = 3=#ffdf89
+palette = 4=#82aaff
+palette = 5=#ff67b1
+palette = 6=#89ddff
+palette = 7=#dad6da
+palette = 8=#8988a0
+palette = 9=#ff8a9e
+palette = 10=#7cf0c4
+palette = 11=#ffeab5
+palette = 12=#a9c6ff
+palette = 13=#b289f1
+palette = 14=#b3ebff
+palette = 15=#f6f3fc
+background = #161526
+foreground = #dad6da
+cursor-color = #ff70b1
+cursor-text = #161526
+selection-background = #6a6793
+selection-foreground = #f6f3fc
+"
+`;
+
+exports[`snapshots > iterm2 1`] = `
+"<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ansi 0 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.2353</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.149</real>
+		<key>Red Component</key>
+		<real>0.1373</real>
+	</dict>
+	<key>Ansi 1 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.4392</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.3255</real>
+		<key>Red Component</key>
+		<real>1</real>
+	</dict>
+	<key>Ansi 10 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.7686</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.9412</real>
+		<key>Red Component</key>
+		<real>0.4863</real>
+	</dict>
+	<key>Ansi 11 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.7098</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.9176</real>
+		<key>Red Component</key>
+		<real>1</real>
+	</dict>
+	<key>Ansi 12 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>1</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.7765</real>
+		<key>Red Component</key>
+		<real>0.6627</real>
+	</dict>
+	<key>Ansi 13 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.9451</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.5373</real>
+		<key>Red Component</key>
+		<real>0.698</real>
+	</dict>
+	<key>Ansi 14 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>1</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.9216</real>
+		<key>Red Component</key>
+		<real>0.702</real>
+	</dict>
+	<key>Ansi 15 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.9882</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.9529</real>
+		<key>Red Component</key>
+		<real>0.9647</real>
+	</dict>
+	<key>Ansi 2 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.6314</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.8941</real>
+		<key>Red Component</key>
+		<real>0.1765</real>
+	</dict>
+	<key>Ansi 3 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.5373</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.8745</real>
+		<key>Red Component</key>
+		<real>1</real>
+	</dict>
+	<key>Ansi 4 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>1</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.6667</real>
+		<key>Red Component</key>
+		<real>0.5098</real>
+	</dict>
+	<key>Ansi 5 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.6941</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.4039</real>
+		<key>Red Component</key>
+		<real>1</real>
+	</dict>
+	<key>Ansi 6 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>1</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.8667</real>
+		<key>Red Component</key>
+		<real>0.5373</real>
+	</dict>
+	<key>Ansi 7 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.8549</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.8392</real>
+		<key>Red Component</key>
+		<real>0.8549</real>
+	</dict>
+	<key>Ansi 8 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.6275</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.5333</real>
+		<key>Red Component</key>
+		<real>0.5373</real>
+	</dict>
+	<key>Ansi 9 Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.6196</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.5412</real>
+		<key>Red Component</key>
+		<real>1</real>
+	</dict>
+	<key>Background Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.149</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.0824</real>
+		<key>Red Component</key>
+		<real>0.0863</real>
+	</dict>
+	<key>Bold Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.9882</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.9529</real>
+		<key>Red Component</key>
+		<real>0.9647</real>
+	</dict>
+	<key>Cursor Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.6941</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.4392</real>
+		<key>Red Component</key>
+		<real>1</real>
+	</dict>
+	<key>Cursor Text Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.149</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.0824</real>
+		<key>Red Component</key>
+		<real>0.0863</real>
+	</dict>
+	<key>Foreground Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.8549</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.8392</real>
+		<key>Red Component</key>
+		<real>0.8549</real>
+	</dict>
+	<key>Link Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>1</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.6667</real>
+		<key>Red Component</key>
+		<real>0.5098</real>
+	</dict>
+	<key>Selected Text Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.9882</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.9529</real>
+		<key>Red Component</key>
+		<real>0.9647</real>
+	</dict>
+	<key>Selection Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.5765</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.4039</real>
+		<key>Red Component</key>
+		<real>0.4157</real>
+	</dict>
+</dict>
+</plist>
+"
+`;
+
+exports[`snapshots > kitty 1`] = `
+"# Arkham
+color0 #23263c
+color1 #ff5370
+color2 #2de4a1
+color3 #ffdf89
+color4 #82aaff
+color5 #ff67b1
+color6 #89ddff
+color7 #dad6da
+color8 #8988a0
+color9 #ff8a9e
+color10 #7cf0c4
+color11 #ffeab5
+color12 #a9c6ff
+color13 #b289f1
+color14 #b3ebff
+color15 #f6f3fc
+background #161526
+foreground #dad6da
+cursor #ff70b1
+cursor_text_color #161526
+selection_background #6a6793
+selection_foreground #f6f3fc
+"
+`;
+
+exports[`snapshots > preview 1`] = `
+"<svg xmlns="http://www.w3.org/2000/svg" width="992" height="1268" viewBox="0 0 992 1268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect width="992" height="1268" fill="#161526"/>
+<text x="22" y="44" fill="#dad6da" font-size="18" font-weight="700">UI</text>
+<rect class="swatch" x="22" y="62" width="148" height="56" rx="8" fill="#161526"/>
+<text x="22" y="136" fill="#dad6da" font-size="11">background</text>
+<text x="22" y="152" fill="#dad6da" font-size="11" opacity="0.75">#161526</text>
+<rect class="swatch" x="182" y="62" width="148" height="56" rx="8" fill="#dad6da"/>
+<text x="182" y="136" fill="#dad6da" font-size="11">foreground</text>
+<text x="182" y="152" fill="#dad6da" font-size="11" opacity="0.75">#dad6da</text>
+<rect class="swatch" x="342" y="62" width="148" height="56" rx="8" fill="#1b1b2f"/>
+<text x="342" y="136" fill="#dad6da" font-size="11">sidebar</text>
+<text x="342" y="152" fill="#dad6da" font-size="11" opacity="0.75">#1b1b2f</text>
+<rect class="swatch" x="502" y="62" width="148" height="56" rx="8" fill="#100f1b"/>
+<text x="502" y="136" fill="#dad6da" font-size="11">statusBar</text>
+<text x="502" y="152" fill="#dad6da" font-size="11" opacity="0.75">#100f1b</text>
+<rect class="swatch" x="662" y="62" width="148" height="56" rx="8" fill="#1c1c30"/>
+<text x="662" y="136" fill="#dad6da" font-size="11">tabInactive</text>
+<text x="662" y="152" fill="#dad6da" font-size="11" opacity="0.75">#1c1c30</text>
+<rect class="swatch" x="822" y="62" width="148" height="56" rx="8" fill="#221f3b"/>
+<text x="822" y="136" fill="#dad6da" font-size="11">tabHover</text>
+<text x="822" y="152" fill="#dad6da" font-size="11" opacity="0.75">#221f3b</text>
+<rect class="swatch" x="22" y="170" width="148" height="56" rx="8" fill="#23263c"/>
+<text x="22" y="244" fill="#dad6da" font-size="11">input</text>
+<text x="22" y="260" fill="#dad6da" font-size="11" opacity="0.75">#23263c</text>
+<rect class="swatch" x="182" y="170" width="148" height="56" rx="8" fill="#23253c"/>
+<text x="182" y="244" fill="#dad6da" font-size="11">dropdown</text>
+<text x="182" y="260" fill="#dad6da" font-size="11" opacity="0.75">#23253c</text>
+<rect class="swatch" x="342" y="170" width="148" height="56" rx="8" fill="#6a6793"/>
+<text x="342" y="244" fill="#dad6da" font-size="11">selection</text>
+<text x="342" y="260" fill="#dad6da" font-size="11" opacity="0.75">#6a6793</text>
+<rect class="swatch" x="502" y="170" width="148" height="56" rx="8" fill="#38335e"/>
+<text x="502" y="244" fill="#dad6da" font-size="11">selectionHighlight</text>
+<text x="502" y="260" fill="#dad6da" font-size="11" opacity="0.75">#38335e</text>
+<rect class="swatch" x="662" y="170" width="148" height="56" rx="8" fill="#4c496b"/>
+<text x="662" y="244" fill="#dad6da" font-size="11">wordHighlight</text>
+<text x="662" y="260" fill="#dad6da" font-size="11" opacity="0.75">#4c496b</text>
+<rect class="swatch" x="822" y="170" width="148" height="56" rx="8" fill="#534f79"/>
+<text x="822" y="244" fill="#dad6da" font-size="11">findMatch</text>
+<text x="822" y="260" fill="#dad6da" font-size="11" opacity="0.75">#534f79</text>
+<rect class="swatch" x="22" y="278" width="148" height="56" rx="8" fill="#8988a0"/>
+<text x="22" y="352" fill="#dad6da" font-size="11">lineNumber</text>
+<text x="22" y="368" fill="#dad6da" font-size="11" opacity="0.75">#8988a0</text>
+<rect class="swatch" x="182" y="278" width="148" height="56" rx="8" fill="#282646"/>
+<text x="182" y="352" fill="#dad6da" font-size="11">listHover</text>
+<text x="182" y="368" fill="#dad6da" font-size="11" opacity="0.75">#282646</text>
+<rect class="swatch" x="342" y="278" width="148" height="56" rx="8" fill="#2e2f4e"/>
+<text x="342" y="352" fill="#dad6da" font-size="11">listInactiveSelection</text>
+<text x="342" y="368" fill="#dad6da" font-size="11" opacity="0.75">#2e2f4e</text>
+<rect class="swatch" x="502" y="278" width="148" height="56" rx="8" fill="#4d4985"/>
+<text x="502" y="352" fill="#dad6da" font-size="11">button</text>
+<text x="502" y="368" fill="#dad6da" font-size="11" opacity="0.75">#4d4985</text>
+<rect class="swatch" x="662" y="278" width="148" height="56" rx="8" fill="#2a2849"/>
+<text x="662" y="352" fill="#dad6da" font-size="11">buttonHover</text>
+<text x="662" y="368" fill="#dad6da" font-size="11" opacity="0.75">#2a2849</text>
+<rect class="swatch" x="822" y="278" width="148" height="56" rx="8" fill="#ff70b1"/>
+<text x="822" y="352" fill="#dad6da" font-size="11">accent</text>
+<text x="822" y="368" fill="#dad6da" font-size="11" opacity="0.75">#ff70b1</text>
+<rect class="swatch" x="22" y="386" width="148" height="56" rx="8" fill="#ffcfd4"/>
+<text x="22" y="460" fill="#dad6da" font-size="11">activityForeground</text>
+<text x="22" y="476" fill="#dad6da" font-size="11" opacity="0.75">#ffcfd4</text>
+<rect class="swatch" x="182" y="386" width="148" height="56" rx="8" fill="#f1e8ff"/>
+<text x="182" y="460" fill="#dad6da" font-size="11">titleForeground</text>
+<text x="182" y="476" fill="#dad6da" font-size="11" opacity="0.75">#f1e8ff</text>
+<rect class="swatch" x="342" y="386" width="148" height="56" rx="8" fill="#252749"/>
+<text x="342" y="460" fill="#dad6da" font-size="11">sidebarHeaderBorder</text>
+<text x="342" y="476" fill="#dad6da" font-size="11" opacity="0.75">#252749</text>
+<rect class="swatch" x="502" y="386" width="148" height="56" rx="8" fill="#12101f"/>
+<text x="502" y="460" fill="#dad6da" font-size="11">sidebarBorder</text>
+<text x="502" y="476" fill="#dad6da" font-size="11" opacity="0.75">#12101f</text>
+<rect class="swatch" x="662" y="386" width="148" height="56" rx="8" fill="#69698f"/>
+<text x="662" y="460" fill="#dad6da" font-size="11">ignored</text>
+<text x="662" y="476" fill="#dad6da" font-size="11" opacity="0.75">#69698f</text>
+<text x="22" y="524" fill="#dad6da" font-size="18" font-weight="700">Syntax</text>
+<rect class="swatch" x="22" y="542" width="148" height="56" rx="8" fill="#b289f1"/>
+<text x="22" y="616" fill="#dad6da" font-size="11">keyword</text>
+<text x="22" y="632" fill="#dad6da" font-size="11" opacity="0.75">#b289f1</text>
+<rect class="swatch" x="182" y="542" width="148" height="56" rx="8" fill="#2de4a1"/>
+<text x="182" y="616" fill="#dad6da" font-size="11">function</text>
+<text x="182" y="632" fill="#dad6da" font-size="11" opacity="0.75">#2de4a1</text>
+<rect class="swatch" x="342" y="542" width="148" height="56" rx="8" fill="#ffdf89"/>
+<text x="342" y="616" fill="#dad6da" font-size="11">class</text>
+<text x="342" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ffdf89</text>
+<rect class="swatch" x="502" y="542" width="148" height="56" rx="8" fill="#ffabb5"/>
+<text x="502" y="616" fill="#dad6da" font-size="11">string</text>
+<text x="502" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ffabb5</text>
+<rect class="swatch" x="662" y="542" width="148" height="56" rx="8" fill="#ff67b1"/>
+<text x="662" y="616" fill="#dad6da" font-size="11">constant</text>
+<text x="662" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ff67b1</text>
+<rect class="swatch" x="822" y="542" width="148" height="56" rx="8" fill="#ff519f"/>
+<text x="822" y="616" fill="#dad6da" font-size="11">tag</text>
+<text x="822" y="632" fill="#dad6da" font-size="11" opacity="0.75">#ff519f</text>
+<rect class="swatch" x="22" y="650" width="148" height="56" rx="8" fill="#ff5370"/>
+<text x="22" y="724" fill="#dad6da" font-size="11">invalid</text>
+<text x="22" y="740" fill="#dad6da" font-size="11" opacity="0.75">#ff5370</text>
+<rect class="swatch" x="182" y="650" width="148" height="56" rx="8" fill="#82aaff"/>
+<text x="182" y="724" fill="#dad6da" font-size="11">method</text>
+<text x="182" y="740" fill="#dad6da" font-size="11" opacity="0.75">#82aaff</text>
+<rect class="swatch" x="342" y="650" width="148" height="56" rx="8" fill="#89ddff"/>
+<text x="342" y="724" fill="#dad6da" font-size="11">regexp</text>
+<text x="342" y="740" fill="#dad6da" font-size="11" opacity="0.75">#89ddff</text>
+<rect class="swatch" x="502" y="650" width="148" height="56" rx="8" fill="#f6f3fc"/>
+<text x="502" y="724" fill="#dad6da" font-size="11">variable</text>
+<text x="502" y="740" fill="#dad6da" font-size="11" opacity="0.75">#f6f3fc</text>
+<rect class="swatch" x="662" y="650" width="148" height="56" rx="8" fill="#b28bda"/>
+<text x="662" y="724" fill="#dad6da" font-size="11">attribute</text>
+<text x="662" y="740" fill="#dad6da" font-size="11" opacity="0.75">#b28bda</text>
+<rect class="swatch" x="822" y="650" width="148" height="56" rx="8" fill="#b2ccd6"/>
+<text x="822" y="724" fill="#dad6da" font-size="11">type</text>
+<text x="822" y="740" fill="#dad6da" font-size="11" opacity="0.75">#b2ccd6</text>
+<rect class="swatch" x="22" y="758" width="148" height="56" rx="8" fill="#c3e88d"/>
+<text x="22" y="832" fill="#dad6da" font-size="11">inserted</text>
+<text x="22" y="848" fill="#dad6da" font-size="11" opacity="0.75">#c3e88d</text>
+<rect class="swatch" x="182" y="758" width="148" height="56" rx="8" fill="#c792ea"/>
+<text x="182" y="832" fill="#dad6da" font-size="11">changed</text>
+<text x="182" y="848" fill="#dad6da" font-size="11" opacity="0.75">#c792ea</text>
+<rect class="swatch" x="342" y="758" width="148" height="56" rx="8" fill="#f0fff850"/>
+<text x="342" y="832" fill="#dad6da" font-size="11">comment</text>
+<text x="342" y="848" fill="#dad6da" font-size="11" opacity="0.75">#f0fff850</text>
+<text x="22" y="896" fill="#dad6da" font-size="18" font-weight="700">ANSI</text>
+<rect class="swatch" x="22" y="914" width="148" height="56" rx="8" fill="#23263c"/>
+<text x="22" y="988" fill="#dad6da" font-size="11">black</text>
+<text x="22" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#23263c</text>
+<rect class="swatch" x="182" y="914" width="148" height="56" rx="8" fill="#ff5370"/>
+<text x="182" y="988" fill="#dad6da" font-size="11">red</text>
+<text x="182" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#ff5370</text>
+<rect class="swatch" x="342" y="914" width="148" height="56" rx="8" fill="#2de4a1"/>
+<text x="342" y="988" fill="#dad6da" font-size="11">green</text>
+<text x="342" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#2de4a1</text>
+<rect class="swatch" x="502" y="914" width="148" height="56" rx="8" fill="#ffdf89"/>
+<text x="502" y="988" fill="#dad6da" font-size="11">yellow</text>
+<text x="502" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#ffdf89</text>
+<rect class="swatch" x="662" y="914" width="148" height="56" rx="8" fill="#82aaff"/>
+<text x="662" y="988" fill="#dad6da" font-size="11">blue</text>
+<text x="662" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#82aaff</text>
+<rect class="swatch" x="822" y="914" width="148" height="56" rx="8" fill="#ff67b1"/>
+<text x="822" y="988" fill="#dad6da" font-size="11">magenta</text>
+<text x="822" y="1004" fill="#dad6da" font-size="11" opacity="0.75">#ff67b1</text>
+<rect class="swatch" x="22" y="1022" width="148" height="56" rx="8" fill="#89ddff"/>
+<text x="22" y="1096" fill="#dad6da" font-size="11">cyan</text>
+<text x="22" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#89ddff</text>
+<rect class="swatch" x="182" y="1022" width="148" height="56" rx="8" fill="#dad6da"/>
+<text x="182" y="1096" fill="#dad6da" font-size="11">white</text>
+<text x="182" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#dad6da</text>
+<rect class="swatch" x="342" y="1022" width="148" height="56" rx="8" fill="#8988a0"/>
+<text x="342" y="1096" fill="#dad6da" font-size="11">brightBlack</text>
+<text x="342" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#8988a0</text>
+<rect class="swatch" x="502" y="1022" width="148" height="56" rx="8" fill="#ff8a9e"/>
+<text x="502" y="1096" fill="#dad6da" font-size="11">brightRed</text>
+<text x="502" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#ff8a9e</text>
+<rect class="swatch" x="662" y="1022" width="148" height="56" rx="8" fill="#7cf0c4"/>
+<text x="662" y="1096" fill="#dad6da" font-size="11">brightGreen</text>
+<text x="662" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#7cf0c4</text>
+<rect class="swatch" x="822" y="1022" width="148" height="56" rx="8" fill="#ffeab5"/>
+<text x="822" y="1096" fill="#dad6da" font-size="11">brightYellow</text>
+<text x="822" y="1112" fill="#dad6da" font-size="11" opacity="0.75">#ffeab5</text>
+<rect class="swatch" x="22" y="1130" width="148" height="56" rx="8" fill="#a9c6ff"/>
+<text x="22" y="1204" fill="#dad6da" font-size="11">brightBlue</text>
+<text x="22" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#a9c6ff</text>
+<rect class="swatch" x="182" y="1130" width="148" height="56" rx="8" fill="#b289f1"/>
+<text x="182" y="1204" fill="#dad6da" font-size="11">brightMagenta</text>
+<text x="182" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#b289f1</text>
+<rect class="swatch" x="342" y="1130" width="148" height="56" rx="8" fill="#b3ebff"/>
+<text x="342" y="1204" fill="#dad6da" font-size="11">brightCyan</text>
+<text x="342" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#b3ebff</text>
+<rect class="swatch" x="502" y="1130" width="148" height="56" rx="8" fill="#f6f3fc"/>
+<text x="502" y="1204" fill="#dad6da" font-size="11">brightWhite</text>
+<text x="502" y="1220" fill="#dad6da" font-size="11" opacity="0.75">#f6f3fc</text>
+</svg>
+"
+`;
+
+exports[`snapshots > warp 1`] = `
+"name: Arkham
+accent: '#ff70b1'
+cursor: '#ff70b1'
+background: '#161526'
+foreground: '#dad6da'
+details: darker
+terminal_colors:
+  normal:
+    black: '#23263c'
+    red: '#ff5370'
+    green: '#2de4a1'
+    yellow: '#ffdf89'
+    blue: '#82aaff'
+    magenta: '#ff67b1'
+    cyan: '#89ddff'
+    white: '#dad6da'
+  bright:
+    black: '#8988a0'
+    red: '#ff8a9e'
+    green: '#7cf0c4'
+    yellow: '#ffeab5'
+    blue: '#a9c6ff'
+    magenta: '#b289f1'
+    cyan: '#b3ebff'
+    white: '#f6f3fc'
+"
+`;
+
+exports[`snapshots > wezterm 1`] = `
+"# Arkham
+[colors]
+foreground = "#dad6da"
+background = "#161526"
+cursor_bg = "#ff70b1"
+cursor_border = "#ff70b1"
+cursor_fg = "#161526"
+selection_bg = "#6a6793"
+selection_fg = "#f6f3fc"
+
+ansi = ["#23263c","#ff5370","#2de4a1","#ffdf89","#82aaff","#ff67b1","#89ddff","#dad6da"]
+brights = ["#8988a0","#ff8a9e","#7cf0c4","#ffeab5","#a9c6ff","#b289f1","#b3ebff","#f6f3fc"]
+
+[metadata]
+name = "Arkham"
+author = "lucasmsa"
+"
+`;
+
+exports[`snapshots > zed 1`] = `
+"{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Arkham",
+  "author": "lucasmsa",
+  "themes": [
+    {
+      "name": "Arkham",
+      "appearance": "dark",
+      "style": {
+        "background": "#161526",
+        "background.appearance": "opaque",
+        "surface.background": "#1b1b2f",
+        "elevated_surface.background": "#23263c",
+        "border": "#252749",
+        "border.variant": "#12101f",
+        "border.focused": "#6a6793",
+        "border.selected": "#ff70b1",
+        "border.transparent": "#00000000",
+        "border.disabled": "#12101f",
+        "text": "#dad6da",
+        "text.muted": "#8988a0",
+        "text.placeholder": "#69698f",
+        "text.disabled": "#69698f",
+        "text.accent": "#ff70b1",
+        "icon": "#ffcfd4",
+        "icon.muted": "#8988a0",
+        "icon.disabled": "#69698f",
+        "icon.placeholder": "#8988a0",
+        "icon.accent": "#ff70b1",
+        "status_bar.background": "#100f1b",
+        "title_bar.background": "#161526",
+        "title_bar.inactive_background": "#161526",
+        "toolbar.background": "#161526",
+        "tab_bar.background": "#161526",
+        "tab.active_background": "#161526",
+        "tab.inactive_background": "#1c1c30",
+        "panel.background": "#1b1b2f",
+        "panel.focused_border": "#ff70b1",
+        "pane.focused_border": "#ff70b1",
+        "pane_group.border": "#12101f",
+        "element.background": "#23263c",
+        "element.hover": "#282646",
+        "element.active": "#2e2f4e",
+        "element.selected": "#2e2f4e",
+        "element.disabled": "#1c1c30",
+        "ghost_element.background": "#00000000",
+        "ghost_element.hover": "#282646",
+        "ghost_element.active": "#2e2f4e",
+        "ghost_element.selected": "#2e2f4e",
+        "ghost_element.disabled": "#1c1c30",
+        "drop_target.background": "#38335e",
+        "scrollbar.thumb.background": "#6a6793",
+        "scrollbar.thumb.hover_background": "#8988a0",
+        "scrollbar.thumb.border": "#6a6793",
+        "scrollbar.track.background": "#161526",
+        "scrollbar.track.border": "#12101f",
+        "search.match_background": "#534f79",
+        "editor.background": "#161526",
+        "editor.foreground": "#dad6da",
+        "editor.gutter.background": "#161526",
+        "editor.subheader.background": "#1b1b2f",
+        "editor.active_line.background": "#221f3b",
+        "editor.highlighted_line.background": "#221f3b",
+        "editor.line_number": "#8988a0",
+        "editor.active_line_number": "#dad6da",
+        "editor.invisible": "#69698f",
+        "editor.wrap_guide": "#252749",
+        "editor.active_wrap_guide": "#6a6793",
+        "editor.indent_guide": "#252749",
+        "editor.indent_guide_active": "#6a6793",
+        "editor.document_highlight.read_background": "#4c496b",
+        "editor.document_highlight.write_background": "#534f79",
+        "editor.document_highlight.bracket_background": "#4c496b",
+        "terminal.background": "#161526",
+        "terminal.foreground": "#dad6da",
+        "terminal.bright_foreground": "#f6f3fc",
+        "terminal.dim_foreground": "#8988a0",
+        "terminal.ansi.background": "#161526",
+        "terminal.ansi.black": "#23263c",
+        "terminal.ansi.red": "#ff5370",
+        "terminal.ansi.green": "#2de4a1",
+        "terminal.ansi.yellow": "#ffdf89",
+        "terminal.ansi.blue": "#82aaff",
+        "terminal.ansi.magenta": "#ff67b1",
+        "terminal.ansi.cyan": "#89ddff",
+        "terminal.ansi.white": "#dad6da",
+        "terminal.ansi.bright_black": "#8988a0",
+        "terminal.ansi.bright_red": "#ff8a9e",
+        "terminal.ansi.bright_green": "#7cf0c4",
+        "terminal.ansi.bright_yellow": "#ffeab5",
+        "terminal.ansi.bright_blue": "#a9c6ff",
+        "terminal.ansi.bright_magenta": "#b289f1",
+        "terminal.ansi.bright_cyan": "#b3ebff",
+        "terminal.ansi.bright_white": "#f6f3fc",
+        "link_text.hover": "#82aaff",
+        "error": "#ff5370",
+        "error.background": "#161526",
+        "error.border": "#ff5370",
+        "warning": "#ffdf89",
+        "warning.background": "#161526",
+        "warning.border": "#ffdf89",
+        "success": "#2de4a1",
+        "success.background": "#161526",
+        "success.border": "#2de4a1",
+        "info": "#82aaff",
+        "info.background": "#161526",
+        "info.border": "#82aaff",
+        "hint": "#8988a0",
+        "hint.background": "#161526",
+        "hint.border": "#8988a0",
+        "predictive": "#69698f",
+        "created": "#c3e88d",
+        "modified": "#c792ea",
+        "deleted": "#ff5370",
+        "conflict": "#ff519f",
+        "renamed": "#82aaff",
+        "ignored": "#69698f",
+        "hidden": "#69698f",
+        "unreachable": "#8988a0",
+        "players": [
+          {
+            "cursor": "#ff70b1",
+            "selection": "#6a6793",
+            "background": "#ff70b1"
+          },
+          {
+            "cursor": "#2de4a1",
+            "selection": "#38335e",
+            "background": "#2de4a1"
+          },
+          {
+            "cursor": "#82aaff",
+            "selection": "#38335e",
+            "background": "#82aaff"
+          },
+          {
+            "cursor": "#ffdf89",
+            "selection": "#38335e",
+            "background": "#ffdf89"
+          }
+        ],
+        "syntax": {
+          "attribute": {
+            "color": "#b28bda",
+            "font_style": "italic"
+          },
+          "boolean": {
+            "color": "#ff67b1"
+          },
+          "comment": {
+            "color": "#f0fff850",
+            "font_style": "italic"
+          },
+          "comment.doc": {
+            "color": "#f0fff850",
+            "font_style": "italic"
+          },
+          "constant": {
+            "color": "#ff67b1"
+          },
+          "constructor": {
+            "color": "#ffdf89"
+          },
+          "embedded": {
+            "color": "#f6f3fc"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "font_weight": 700
+          },
+          "enum": {
+            "color": "#ff67b1"
+          },
+          "function": {
+            "color": "#2de4a1"
+          },
+          "hint": {
+            "color": "#8988a0"
+          },
+          "keyword": {
+            "color": "#b289f1"
+          },
+          "label": {
+            "color": "#ff67b1"
+          },
+          "link_text": {
+            "color": "#82aaff"
+          },
+          "link_uri": {
+            "color": "#82aaff"
+          },
+          "number": {
+            "color": "#ff67b1"
+          },
+          "operator": {
+            "color": "#b289f1"
+          },
+          "predictive": {
+            "color": "#69698f"
+          },
+          "preproc": {
+            "color": "#b289f1"
+          },
+          "primary": {
+            "color": "#f6f3fc"
+          },
+          "property": {
+            "color": "#f6f3fc"
+          },
+          "punctuation": {
+            "color": "#b289f1"
+          },
+          "punctuation.bracket": {
+            "color": "#b289f1"
+          },
+          "punctuation.delimiter": {
+            "color": "#f6f3fc"
+          },
+          "punctuation.list_marker": {
+            "color": "#b289f1"
+          },
+          "punctuation.special": {
+            "color": "#b289f1"
+          },
+          "string": {
+            "color": "#ffabb5"
+          },
+          "string.escape": {
+            "color": "#89ddff"
+          },
+          "string.regex": {
+            "color": "#89ddff"
+          },
+          "string.special": {
+            "color": "#ffabb5"
+          },
+          "string.special.symbol": {
+            "color": "#ffabb5"
+          },
+          "tag": {
+            "color": "#ff519f"
+          },
+          "text.literal": {
+            "color": "#c792ea"
+          },
+          "title": {
+            "color": "#c3e88d"
+          },
+          "type": {
+            "color": "#ffdf89"
+          },
+          "variable": {
+            "color": "#f6f3fc"
+          },
+          "variable.special": {
+            "color": "#ff5370",
+            "font_style": "italic"
+          }
+        }
+      }
+    }
+  ]
+}
+"
+`;

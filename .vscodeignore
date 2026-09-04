@@ -2,3 +2,16 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+node_modules/**
+src/**
+scripts/**
+tests/**
+ports/**
+docs/**
+schemas/**
+dist/**
+palette.json
+tsconfig.json
+vitest.config.ts
+package-lock.json
+*.vsix

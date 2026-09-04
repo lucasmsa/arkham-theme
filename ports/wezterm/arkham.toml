@@ -1,0 +1,16 @@
+# Arkham
+[colors]
+foreground = "#dad6da"
+background = "#161526"
+cursor_bg = "#ff70b1"
+cursor_border = "#ff70b1"
+cursor_fg = "#161526"
+selection_bg = "#6a6793"
+selection_fg = "#f6f3fc"
+
+ansi = ["#23263c","#ff5370","#2de4a1","#ffdf89","#82aaff","#ff67b1","#89ddff","#dad6da"]
+brights = ["#8988a0","#ff8a9e","#7cf0c4","#ffeab5","#a9c6ff","#b289f1","#b3ebff","#f6f3fc"]
+
+[metadata]
+name = "Arkham"
+author = "lucasmsa"

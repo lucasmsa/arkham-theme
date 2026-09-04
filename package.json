@@ -2,7 +2,7 @@
     "name": "arkham-theme",
     "displayName": "Arkham Theme",
     "description": "A purplish dark theme with clear divisions and nice colors",
-    "version": "1.13.0",
+    "version": "1.14.0",
     "publisher": "lucasmsa",
     "engines": {
         "vscode": "^1.46.0"
@@ -24,5 +24,29 @@
         "type": "git",
         "url": "https://github.com/lucasmsa/arkham-theme.git"
     },
-    "homepage": "https://github.com/lucasmsa/arkham-theme/blob/master/README.md"
+    "homepage": "https://github.com/lucasmsa/arkham-theme/blob/master/README.md",
+    "scripts": {
+        "build": "tsx scripts/build.ts",
+        "test": "vitest run",
+        "typecheck": "tsc --noEmit",
+        "zip:chrome": "tsx scripts/zip-chrome.ts",
+        "package": "vsce package",
+        "publish:ovsx": "ovsx publish"
+    },
+    "devDependencies": {
+        "@resvg/resvg-js": "^2.6.2",
+        "@types/archiver": "^8.0.0",
+        "@types/node": "^22.20.1",
+        "@vscode/vsce": "^3.9.2",
+        "ajv": "^8.20.0",
+        "archiver": "^8.0.0",
+        "jsonc-parser": "^3.3.1",
+        "ovsx": "^1.1.1",
+        "smol-toml": "^1.8.0",
+        "tsx": "^4.23.13",
+        "typescript": "^5.9.3",
+        "vitest": "^5.0.0",
+        "yaml": "^2.9.0"
+    },
+    "type": "module"
 }
