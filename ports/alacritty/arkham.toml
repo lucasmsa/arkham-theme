@@ -1,0 +1,33 @@
+# Arkham
+
+[colors.primary]
+background = '#161526'
+foreground = '#dad6da'
+
+[colors.cursor]
+text = '#161526'
+cursor = '#ff70b1'
+
+[colors.selection]
+text = '#f6f3fc'
+background = '#6a6793'
+
+[colors.normal]
+black = '#23263c'
+red = '#ff5370'
+green = '#2de4a1'
+yellow = '#ffdf89'
+blue = '#82aaff'
+magenta = '#ff67b1'
+cyan = '#89ddff'
+white = '#dad6da'
+
+[colors.bright]
+black = '#8988a0'
+red = '#ff8a9e'
+green = '#7cf0c4'
+yellow = '#ffeab5'
+blue = '#a9c6ff'
+magenta = '#b289f1'
+cyan = '#b3ebff'
+white = '#f6f3fc'

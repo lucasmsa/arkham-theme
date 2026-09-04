@@ -1,0 +1,25 @@
+name: Arkham
+accent: '#ff70b1'
+cursor: '#ff70b1'
+background: '#161526'
+foreground: '#dad6da'
+details: darker
+terminal_colors:
+  normal:
+    black: '#23263c'
+    red: '#ff5370'
+    green: '#2de4a1'
+    yellow: '#ffdf89'
+    blue: '#82aaff'
+    magenta: '#ff67b1'
+    cyan: '#89ddff'
+    white: '#dad6da'
+  bright:
+    black: '#8988a0'
+    red: '#ff8a9e'
+    green: '#7cf0c4'
+    yellow: '#ffeab5'
+    blue: '#a9c6ff'
+    magenta: '#b289f1'
+    cyan: '#b3ebff'
+    white: '#f6f3fc'
