@@ -1,1 +1,7 @@
 .DS_Store
+.vscode/**
+.vscode-test/**
+vsc-extension-quickstart.md
+node_modules/
+dist/
+*.vsix

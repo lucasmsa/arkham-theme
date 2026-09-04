@@ -50,3 +50,8 @@ All notable changes to the "arkham-theme" extension will be documented in this f
 - VSCE Timeout error
 ## [1.13.0] - 2021-04-27
 - Adjust elixir screenshot
+## [1.14.0] - 2026-09-04
+- Added integrated terminal colors (16 ANSI, cursor, selection)
+- Added palette.json as the pinned source for ports
+- Added ports for Chrome, Ghostty, iTerm2, Alacritty, Kitty, WezTerm, Zed and Warp
+- Added Open VSX publish script for Cursor
